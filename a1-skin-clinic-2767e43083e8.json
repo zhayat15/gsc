@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "a1-skin-clinic",
+  "private_key_id": "2767e43083e85bdb949909344d7459cfa35286fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/8htMsoXd8Jh6\nMYP3ktv8yB5VZMlgpsJ5dbB14GyR6H1Ke+V0RO9nP4zu3PzPTJ1e9bWXZvHZ20oY\nQHC78q2k/iXS254DSrKpEWghnChR3gHR//MJ/28zopFi0i02Ocs8eYi0j/ilNBF9\nUON0xdhWE4pVubcqmyzVWUjrPb5O4N1BAd79SoaT6iWqpnjK3+7ZOocFTXDXA6mJ\nev1FCt7MedDyQkG859g/+eST7dMyicy0Lqc9ezyq72uypq7sGqvHhkvXcvY+zhCI\nCKs7F9VNPAjW+BsAPmt4Ky5MwZRWPRNs7m/q/bQ7sWwAJeMgnmGHDAPULruPxLjh\nEC5Qo/RfAgMBAAECggEALylG8ODaSG5RoJBi+uUAHUt0PIoPeqpulRZIHaZfNrh3\ndGIdviQj6Gvybkwo56xM7GSV0hXurZcWTQAkUuGtLaFuXLEuUWO8oxLOUZfDRl40\nd0sahaXXxkmWzD+U8UJg/8Jixu6q6rhw5agGww3LelbBwg9oBFVtPhx6cKZSiKGE\nozoiwwzH0TzaSsfzCeFrVz5n4mp5A+Zg+MyNQc+h8Qu7GtMG16nswdTLiOegMyJ4\nfn7BZW0MVjFg7ICPuwI01km/wdIPS2ORaLuD5w1s/i6AfP2WT2tCAafn6RQDj9nb\n0MJx4OCEVh81yN9u7urXkChlRLadUoxn3tSFihb8tQKBgQD7KXfs7VaSmTI4hHZD\nmqmWD/T3Pg2+h4AxwzpPiCM3gX5dHv6MMl1DZtGaqqFubKN29/7r/Vr0qLPION64\nkjppjxG3K/ZL/ACDNhEDjCWE06t0FUIlXMUdwgyanEvng/Gkuaypc0O4wJwsoYuC\nxk+mHCpDHdyI3qeUom+XOHnCJQKBgQDDpKFvbJtQpDbC59kKgy93pFYeFeQsBVu5\neomODhk4TA+BbNzGHrMtupGJX6I99BzrTjL141BGDKaZeD9GNNWV5ID7B23MaTcO\nLYm5n5Vtvd0CPUs6/oFtv1+hj4kp+1hOqd91ejVRGyUVZaiJaYB2Oo9gr4S+4REl\n0JcHkGj7MwKBgQDwB2l9HDUoVRARw0XixeRcbVOHFd68v3JcHF+Vsl01pqPFCuHp\nyhgnWhPm5Dry9RAjmk4d6jsKpk9qgi8X5We9ieU8UN9JLsSuoPURltYkYsXwYoCc\nhFQ9ZD33ZHeGAirlai0ApA+MeUbHwHs7t5pW/YPGMLuacm9lNPfAZVC3oQKBgDe/\nB0jql27o+7mZupxmOPZMW0WDU1q/xB0br2pM1h7WfWyRim7hfIjBKosMNvyUPFFI\nHPk3Zj4viKEeRFlK4LkvPRlKSpz+NfPSQfYkZL26ZekncfJDZrnQ1/z/G0RdHBJ+\nEPA2fE65/10TdGyDJVmK4iPYn2iMVQiDYSWEnoVFAoGBAIfc6QCcgJJ/MWD3lXSS\nVK1TDGlmuxHw3d8CpmvfOtuhWuAGMOCpr+axAaKosbGMchTlCFobcPaRPgYMD4bd\njS3getAJqj33wADajEKIgOMxbuiLbEOg2FLj3EtC4sXp2eCbzRZiQlng53S8yQXi\ny3C+pUjTR9kBuV9xR/4/DCso\n-----END PRIVATE KEY-----\n",
+  "client_email": "gsc-api-access@a1-skin-clinic.iam.gserviceaccount.com",
+  "client_id": "107509955098819261938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gsc-api-access%40a1-skin-clinic.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
